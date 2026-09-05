@@ -2,3 +2,4 @@
 [[Faraday's Laws]]
 [[Lenz's Law]]
 [[Inductance]]
+[[Energy of Inductor]]
