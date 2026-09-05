@@ -7,3 +7,8 @@ Nd\phi &\propto dI\\
 \\
 Nd\theta&=kdI
 \end{align}$$
+k - Coefficient of inductance
+Unit - Henry
+
+[[Self Inductance]]
+[[Mutual Inductance]]

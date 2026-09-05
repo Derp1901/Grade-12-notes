@@ -1,4 +1,4 @@
-## Definition
+#Definitions 
 The amount of magnetic field lines passing through a unit area.
 
 Represented by $\phi$
