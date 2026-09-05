@@ -22,3 +22,12 @@ M depends on geometry of coil (shape, size, N, distance between coils, relative 
 #Derivation #EMI #Solenoid
 Consider two solenoids $S_1$ and $S_{2}$ of equal length, coaxially wounded one over the other. Let current $I_{1}$ flow through $S_1$ such that the flux related to $S_2$ changes.
 ![[Pasted image 20260905235734.png|300]]
+Due to $I_1$
+$$\begin{align}
+N\phi&=MI\\
+N_{2}\phi&=MI_{1}\\
+N_{2}B_{1}A_{2}&=MI_{1}\\
+N_{2}\mu_{o}n_{1}I_{1}\pi r_{2}^2&=MI_{1}\\
+N_{2}\nu_{o} \frac{N_{1}}{l}\pi r_{2}^2&=M\\ \\
+
+\end{align}$$
