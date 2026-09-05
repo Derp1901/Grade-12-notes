@@ -24,6 +24,7 @@ NBA&=LI\\
 N\mu_{o}nIA&=LI\\
 N\mu_{o}nA&=L\\
 \\
-L=\frac{\mu_{o}N^2A}{l} \ \ \ \ \ \ or \ \ \ \mu n^2
+L=\frac{\mu_{o}N^2A}{l} \ \ &\  or \ \ \ \mu_{o} n^2
 Al
 \end{align}$$
+
