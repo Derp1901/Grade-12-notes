@@ -18,4 +18,9 @@ $f=120rpm=2rev$
 $B = 0.4 G$
 $L=0.5m$
 
-$\omega$
+$\omega=2\pi f$
+$\omega =4\pi$
+
+$E=\frac{1}{2}B\omega L^2$
+
+$E=6.28*10^{-5}V$
