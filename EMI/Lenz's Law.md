@@ -1,4 +1,4 @@
-#Definitions 
+#Definitions #EMI 
 The polarity of the induced EMF is such that it tends to produce a current which opposes the change in magnetic flux that produced it
 $$E=-\frac{dΦ}{dt}$$
 ## Questions

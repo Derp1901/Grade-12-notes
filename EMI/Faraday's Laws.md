@@ -1,4 +1,4 @@
-#Definitions 
+#Definitions #EMI 
 Whenever the magnetic flux related to a coil change, an EMF is induced in it. The magnitude of the induced EMF is equal to the rate of change of magnetic flux in the circuit.
 
 $$E=\frac{dΦ}{dt}$$

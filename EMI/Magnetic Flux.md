@@ -1,8 +1,9 @@
-#Definitions 
+#Definitions #EMI 
 The amount of magnetic field lines passing through a unit area.
 
 Represented by $\phi$
 
+#Derivation #EMI 
 Consider a Magnetic field 'B', an area 'A' placed in B such that the normal makes an angle θ with the B.
 ![[Pasted image 20260905230341.png|232]]
 
