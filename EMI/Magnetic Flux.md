@@ -15,3 +15,5 @@ Unit -
 	SI = Weber (Wb)
 	CGS = Maxwell (mx)
 
+[[Motional EMF]]
+[[Rotational EMF]]
