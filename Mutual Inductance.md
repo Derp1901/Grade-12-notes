@@ -28,6 +28,6 @@ N\phi&=MI\\
 N_{2}\phi&=MI_{1}\\
 N_{2}B_{1}A_{2}&=MI_{1}\\
 N_{2}\mu_{o}n_{1}I_{1}\pi r_{2}^2&=MI_{1}\\
-N_{2}\nu_{o} \frac{N_{1}}{l}\pi r_{2}^2&=M\\ \\
-
+N_{2}\mu_{o} \frac{N_{1}}{l}\pi r_{2}^2&=M\\ \\
+\mu_{o} \frac{N_{1}N_{2}}{l}\pi r_{2}^2&=M
 \end{align}$$
