@@ -20,5 +20,10 @@ Consider a solenoid of length 'l' and area 'A' with 'N' number of turns and 'n' 
 $$\begin{align}
 N\phi&\propto I\\
 N\phi&=LI\\
-NBA
+NBA&=LI\\
+N\mu_{o}nIA&=LI\\
+N\mu_{o}nA&=L\\
+\\
+L=\frac{\mu_{o}N^2A}{l} \ \ \ \ \ \ or \ \ \ \mu n^2
+Al
 \end{align}$$
