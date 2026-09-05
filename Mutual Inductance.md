@@ -20,4 +20,5 @@ E&=-M\frac{dI}{dt} \\
 M depends on geometry of coil (shape, size, N, distance between coils, relative placements of coils)
 
 #Derivation #EMI #Solenoid
-Consider two solenoids $S_1$ and $S_{2}$
+Consider two solenoids $S_1$ and $S_{2}$ of equal length, coaxially wounded one over the other. Let current $I_{1}$ flow through $S_1$ such that the flux related to $S_2$ changes.
+![[Pasted image 20260905235734.png|300]]
