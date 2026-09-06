@@ -7,7 +7,7 @@ $$\begin{align}
 &=Blx\cos{0}\\ \\
 \phi&=Blx
 \end{align}$$
-When PQ moves with a velocity 'x' changes, ie area changes
+When PQ moves with a velocity 'v', 'x' changes, ie area changes
 $$\begin{align}
 E&=\frac{d\phi}{dt}\\
 &=\frac{d}{dt}Blx\\
