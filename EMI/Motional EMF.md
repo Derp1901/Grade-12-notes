@@ -4,14 +4,14 @@ Consider a magnetic field 'B' acting perpendicular to a rectangular coil of leng
 
 $$\begin{align}
 \phi&=BA\cos\theta\\
-&=Blx\cos{0}
-\phi=Blx
+&=Blx\cos{0}\\ \\
+\phi&=Blx
 \end{align}$$
 When PQ moves with a velocity 'x' changes, ie area changes
 $$\begin{align}
 E&=\frac{d\phi}{dt}\\
-&=\frac{d}{dt}Blx
-&=Bl \frac{dx}{dt}
+&=\frac{d}{dt}Blx\\
+&=Bl \frac{dx}{dt}\\
 E&=Blv
 \end{align}$$
 
