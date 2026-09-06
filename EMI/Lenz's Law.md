@@ -14,4 +14,3 @@ Therefore creating a perpetual movng machine, violating the law of conservation 
 
 Hence, a north pole must be formed in a coil when a north pole is brough towards the coil.
 ```
-Q.
