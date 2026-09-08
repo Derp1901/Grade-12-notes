@@ -5,5 +5,5 @@ The magnetic field applied on the point but the current element $dB\propto$ curr
 
 $$\begin{align}
 dB&\propto \frac{Idl\sin\theta}{r^2}\\
-db&=\frac{\mu_{o}}{4\pi}.\frac{}
+db&=\frac{\mu_{o}}{4\pi}.\frac{Idl\sin \theta}{r^2}
 \end{align}$$
