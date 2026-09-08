@@ -1,2 +1,4 @@
 #Derivation #Mag1 
-Consider a current carrying conductor with $I$. Consider a small current element of length $dl$, at a distance $r$ from the current element, let the current element make an angle $\theta$ between the current
+Consider a current carrying conductor with $I$. Consider a small current element of length $dl$, at a distance $r$ from the current element, let the current element make an angle $\theta$ between the current element and line joining. 
+
+The magnetic field applied on the point but the current element $dB\propto$ current $I$ 
