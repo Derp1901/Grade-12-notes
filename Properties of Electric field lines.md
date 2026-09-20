@@ -5,4 +5,3 @@
 5. Tangent at any point gives the direction of E at the point.
 6. No two filed lines will intersect each other
 7. Field lines are always perpendicular to the surface of the conductor.
-8. 
