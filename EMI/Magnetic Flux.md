@@ -7,7 +7,7 @@ Represented by $\phi$
 Consider a Magnetic field 'B', an area 'A' placed in B such that the normal makes an angle θ with the B.
 ![[Pasted image 20260905230341.png|232]]
 
-$Φ = BAcosθ$
+#formula$Φ = BAcosθ$
 $Φ =\vec{B}.\vec{A}$
 
 Dimensions - $ML^2T^2 A^{-1}$
