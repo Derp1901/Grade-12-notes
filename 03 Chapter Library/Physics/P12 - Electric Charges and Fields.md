@@ -34,8 +34,9 @@ questions_correct: 0
 ## Short notes · formulas · reactions
 
 - $F=\frac{kq_{1}q_{2}}{r^2}$
-- $E=$
-
+- $E=\frac{kq}{r^2}$
+- $p=2aq$
+- $$
 ## My top two errors
 
 1. 
