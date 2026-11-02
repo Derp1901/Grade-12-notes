@@ -35,7 +35,7 @@ questions_correct: 0
 
 - $p_{total}=p_{1}^o\chi_{1}+p_{2}^o\chi_{2}$
 - $p_{total}=p_{1}^o +\chi_{2}(p_{2}^o - p_{1}^o)$
-- y
+- 
 
 ## My top two errors
 
