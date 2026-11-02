@@ -33,7 +33,7 @@ questions_correct: 0
 
 ## Short notes · formulas · reactions
 
-- 
+- $k$
 
 ## My top two errors
 
