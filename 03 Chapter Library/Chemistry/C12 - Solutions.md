@@ -33,7 +33,7 @@ questions_correct: 0
 
 ## Short notes · formulas · reactions
 
-- 
+- $p_{total}=p_{1}^o$
 
 ## My top two errors
 
