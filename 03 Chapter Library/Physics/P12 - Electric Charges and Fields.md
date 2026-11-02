@@ -33,7 +33,8 @@ questions_correct: 0
 
 ## Short notes · formulas · reactions
 
-- $k$
+- $F=\frac{kq_{1}q_{2}}{r^2}$
+- $E=$
 
 ## My top two errors
 
