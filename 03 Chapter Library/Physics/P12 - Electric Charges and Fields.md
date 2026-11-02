@@ -36,7 +36,7 @@ questions_correct: 0
 - $F=\frac{kq_{1}q_{2}}{r^2}$
 - $E=\frac{kq}{r^2}$
 - $p=2aq$
-- $$
+- $$ 
 ## My top two errors
 
 1. 
